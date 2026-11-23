@@ -51,6 +51,11 @@ The following results represent the combined dataset across 2013–2016.
 - Annual Revenue Comparison Chart
 - Revenue Growth Trend Chart
 - Interactive Company and Year Slicers
+- 
+## Dashboard Preview
+
+![Financial Performance Dashboard](PowerBI_Dashboard.png)
+
 
 ## Repository Files
 
